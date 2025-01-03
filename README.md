@@ -54,3 +54,4 @@ Public API (dummyjson): For fetching mock product data.
 ## snap from project
 
 ![alt text](image.png)
+![alt text](image-1.png)
